@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @augustobalsanelli
+- 👋🏻 Hi, I’m @augustobalsanelli
 - 🌱 I’m currently learning VueJS
 - 📫 How to reach me: <a href="mailto:augustobalsanelli@proton.me">augustobalsanelli@proton.me</a>
